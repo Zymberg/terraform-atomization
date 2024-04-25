@@ -1,0 +1,25 @@
+[2024-04-25T14:51:39.304+0000] {processor.py:161} INFO - Started process (PID=79) to work on /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:51:39.307+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_pubsub_dag.py for tasks to queue
+[2024-04-25T14:51:39.309+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:39.309+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:51:39.374+0000] {processor.py:840} INFO - DAG(s) 'dischem_pubsub' retrieved from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:51:39.383+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:39.383+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:51:39.404+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:39.404+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_pubsub to 2024-04-25 14:00:00+00:00, run_after=2024-04-25 15:00:00+00:00
+[2024-04-25T14:51:39.433+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_pubsub_dag.py took 0.133 seconds
+[2024-04-25T14:52:37.886+0000] {processor.py:161} INFO - Started process (PID=80) to work on /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:52:37.888+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_pubsub_dag.py for tasks to queue
+[2024-04-25T14:52:37.891+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:37.890+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:52:37.994+0000] {processor.py:840} INFO - DAG(s) 'dischem_pubsub' retrieved from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:52:38.233+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.232+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:dischem_pubsub
+[2024-04-25T14:52:38.248+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.247+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:dischem_pubsub
+[2024-04-25T14:52:38.259+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.258+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:dischem_pubsub
+[2024-04-25T14:52:38.260+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.260+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:52:38.269+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.269+0000] {dag.py:3118} INFO - Creating ORM DAG for dischem_pubsub
+[2024-04-25T14:52:38.278+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:38.278+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_pubsub to 2024-04-25 14:00:00+00:00, run_after=2024-04-25 15:00:00+00:00
+[2024-04-25T14:52:38.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_pubsub_dag.py took 0.433 seconds
+[2024-04-25T14:53:08.618+0000] {processor.py:161} INFO - Started process (PID=97) to work on /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:53:08.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_pubsub_dag.py for tasks to queue
+[2024-04-25T14:53:08.623+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:08.623+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:53:08.715+0000] {processor.py:840} INFO - DAG(s) 'dischem_pubsub' retrieved from /opt/airflow/dags/dischem_pubsub_dag.py
+[2024-04-25T14:53:08.732+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:08.732+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:53:08.750+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:08.750+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_pubsub to 2024-04-25 14:00:00+00:00, run_after=2024-04-25 15:00:00+00:00
+[2024-04-25T14:53:08.786+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_pubsub_dag.py took 0.174 seconds

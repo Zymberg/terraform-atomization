@@ -1,0 +1,53 @@
+[2024-04-21T16:58:37.074+0000] {processor.py:161} INFO - Started process (PID=356) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:58:37.076+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T16:58:37.077+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.077+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:58:37.182+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:58:37.286+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.285+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:e
+[2024-04-21T16:58:37.298+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.298+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:e
+[2024-04-21T16:58:37.307+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.306+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:e
+[2024-04-21T16:58:37.308+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.308+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T16:58:37.317+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.316+0000] {dag.py:3118} INFO - Creating ORM DAG for e
+[2024-04-21T16:58:37.325+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:58:37.325+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T16:58:37.352+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.283 seconds
+[2024-04-21T16:59:07.663+0000] {processor.py:161} INFO - Started process (PID=358) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:07.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T16:59:07.667+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:07.667+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:07.753+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:07.769+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:07.768+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T16:59:07.783+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:07.783+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T16:59:07.808+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.150 seconds
+[2024-04-21T16:59:38.214+0000] {processor.py:161} INFO - Started process (PID=360) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:38.216+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T16:59:38.218+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:38.217+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:38.296+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T16:59:38.317+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:38.317+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T16:59:38.338+0000] {logging_mixin.py:188} INFO - [2024-04-21T16:59:38.337+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T16:59:38.368+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.158 seconds
+[2024-04-21T17:00:08.849+0000] {processor.py:161} INFO - Started process (PID=362) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:08.851+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T17:00:08.852+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:08.851+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:08.921+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:08.937+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:08.936+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T17:00:08.952+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:08.952+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T17:00:08.987+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.143 seconds
+[2024-04-21T17:00:39.377+0000] {processor.py:161} INFO - Started process (PID=364) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:39.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T17:00:39.382+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:39.381+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:39.460+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:00:39.481+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:39.481+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T17:00:39.505+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:00:39.505+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T17:00:39.534+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.163 seconds
+[2024-04-21T17:01:10.029+0000] {processor.py:161} INFO - Started process (PID=366) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:10.030+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T17:01:10.032+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:10.032+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:10.110+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:10.128+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:10.128+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T17:01:10.145+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:10.145+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T17:01:10.167+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.143 seconds
+[2024-04-21T17:01:40.563+0000] {processor.py:161} INFO - Started process (PID=368) to work on /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:40.564+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/new-e_20240421045750.py for tasks to queue
+[2024-04-21T17:01:40.566+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:40.566+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:40.630+0000] {processor.py:840} INFO - DAG(s) 'e' retrieved from /opt/airflow/dags/new-e_20240421045750.py
+[2024-04-21T17:01:40.652+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:40.651+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T17:01:40.670+0000] {logging_mixin.py:188} INFO - [2024-04-21T17:01:40.670+0000] {dag.py:3954} INFO - Setting next_dagrun for e to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T17:01:40.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/new-e_20240421045750.py took 0.140 seconds

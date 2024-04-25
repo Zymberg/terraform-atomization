@@ -1,0 +1,18 @@
+[2024-04-25T17:02:41.104+0000] {processor.py:161} INFO - Started process (PID=106) to work on /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:02:41.106+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/goodbye_john_dag.py for tasks to queue
+[2024-04-25T17:02:41.110+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.108+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:02:41.282+0000] {processor.py:840} INFO - DAG(s) 'goodbye_john' retrieved from /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:02:41.499+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.497+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:goodbye_john
+[2024-04-25T17:02:41.513+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.513+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:goodbye_john
+[2024-04-25T17:02:41.525+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.524+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:goodbye_john
+[2024-04-25T17:02:41.526+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.526+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T17:02:41.545+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.545+0000] {dag.py:3118} INFO - Creating ORM DAG for goodbye_john
+[2024-04-25T17:02:41.566+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:02:41.566+0000] {dag.py:3954} INFO - Setting next_dagrun for goodbye_john to 2024-04-24 23:00:00+00:00, run_after=2024-04-25 23:00:00+00:00
+[2024-04-25T17:02:41.602+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/goodbye_john_dag.py took 0.529 seconds
+[2024-04-25T17:03:12.524+0000] {processor.py:161} INFO - Started process (PID=108) to work on /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:03:12.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/goodbye_john_dag.py for tasks to queue
+[2024-04-25T17:03:12.528+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:03:12.527+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:03:12.608+0000] {processor.py:840} INFO - DAG(s) 'goodbye_john' retrieved from /opt/airflow/dags/goodbye_john_dag.py
+[2024-04-25T17:03:12.635+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:03:12.635+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T17:03:12.663+0000] {logging_mixin.py:188} INFO - [2024-04-25T17:03:12.663+0000] {dag.py:3954} INFO - Setting next_dagrun for goodbye_john to 2024-04-24 23:00:00+00:00, run_after=2024-04-25 23:00:00+00:00
+[2024-04-25T17:03:12.701+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/goodbye_john_dag.py took 0.186 seconds

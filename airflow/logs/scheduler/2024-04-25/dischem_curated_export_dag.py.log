@@ -1,0 +1,32 @@
+[2024-04-25T14:51:35.551+0000] {processor.py:161} INFO - Started process (PID=65) to work on /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:51:35.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_curated_export_dag.py for tasks to queue
+[2024-04-25T14:51:35.555+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:35.554+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:51:35.632+0000] {processor.py:840} INFO - DAG(s) 'dischem_curated_export' retrieved from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:51:35.647+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:35.645+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:51:35.667+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:51:35.666+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_curated_export to None, run_after=None
+[2024-04-25T14:51:35.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_curated_export_dag.py took 0.177 seconds
+[2024-04-25T14:52:06.313+0000] {processor.py:161} INFO - Started process (PID=81) to work on /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:06.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_curated_export_dag.py for tasks to queue
+[2024-04-25T14:52:06.318+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:06.317+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:06.385+0000] {processor.py:840} INFO - DAG(s) 'dischem_curated_export' retrieved from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:06.693+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:06.693+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:52:06.702+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:06.702+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_curated_export to None, run_after=None
+[2024-04-25T14:52:06.733+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_curated_export_dag.py took 0.429 seconds
+[2024-04-25T14:52:32.621+0000] {processor.py:161} INFO - Started process (PID=76) to work on /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:32.623+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_curated_export_dag.py for tasks to queue
+[2024-04-25T14:52:32.625+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:32.625+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:32.700+0000] {processor.py:840} INFO - DAG(s) 'dischem_curated_export' retrieved from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:52:33.726+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.725+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:dischem_curated_export
+[2024-04-25T14:52:33.744+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.743+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:dischem_curated_export
+[2024-04-25T14:52:33.800+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.799+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:dischem_curated_export
+[2024-04-25T14:52:33.801+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.801+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:52:33.812+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.812+0000] {dag.py:3118} INFO - Creating ORM DAG for dischem_curated_export
+[2024-04-25T14:52:33.813+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:52:33.813+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_curated_export to None, run_after=None
+[2024-04-25T14:52:33.869+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_curated_export_dag.py took 1.253 seconds
+[2024-04-25T14:53:04.246+0000] {processor.py:161} INFO - Started process (PID=94) to work on /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:53:04.248+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/dischem_curated_export_dag.py for tasks to queue
+[2024-04-25T14:53:04.251+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:04.250+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:53:04.337+0000] {processor.py:840} INFO - DAG(s) 'dischem_curated_export' retrieved from /opt/airflow/dags/dischem_curated_export_dag.py
+[2024-04-25T14:53:04.395+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:04.395+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-25T14:53:04.409+0000] {logging_mixin.py:188} INFO - [2024-04-25T14:53:04.409+0000] {dag.py:3954} INFO - Setting next_dagrun for dischem_curated_export to None, run_after=None
+[2024-04-25T14:53:04.598+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/dischem_curated_export_dag.py took 0.357 seconds

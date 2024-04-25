@@ -1,0 +1,18 @@
+[2024-04-21T21:54:39.393+0000] {processor.py:161} INFO - Started process (PID=633) to work on /opt/airflow/dags/test.py
+[2024-04-21T21:54:39.395+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2024-04-21T21:54:39.397+0000] {logging_mixin.py:188} INFO - [2024-04-21T21:54:39.397+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2024-04-21T21:54:39.561+0000] {processor.py:840} INFO - DAG(s) 'test' retrieved from /opt/airflow/dags/test.py
+[2024-04-21T21:54:39.654+0000] {logging_mixin.py:188} INFO - [2024-04-21T21:54:39.654+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T21:54:39.669+0000] {logging_mixin.py:188} INFO - [2024-04-21T21:54:39.669+0000] {dag.py:3954} INFO - Setting next_dagrun for test to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T21:54:39.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/test.py took 0.324 seconds
+[2024-04-21T22:19:41.924+0000] {processor.py:161} INFO - Started process (PID=667) to work on /opt/airflow/dags/test.py
+[2024-04-21T22:19:41.926+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/test.py for tasks to queue
+[2024-04-21T22:19:41.927+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:41.926+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/test.py
+[2024-04-21T22:19:42.019+0000] {processor.py:840} INFO - DAG(s) 'te' retrieved from /opt/airflow/dags/test.py
+[2024-04-21T22:19:42.126+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.125+0000] {override.py:1829} INFO - Created Permission View: can delete on DAG:te
+[2024-04-21T22:19:42.139+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.138+0000] {override.py:1829} INFO - Created Permission View: can edit on DAG:te
+[2024-04-21T22:19:42.148+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.148+0000] {override.py:1829} INFO - Created Permission View: can read on DAG:te
+[2024-04-21T22:19:42.150+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.150+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2024-04-21T22:19:42.168+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.168+0000] {dag.py:3118} INFO - Creating ORM DAG for te
+[2024-04-21T22:19:42.187+0000] {logging_mixin.py:188} INFO - [2024-04-21T22:19:42.186+0000] {dag.py:3954} INFO - Setting next_dagrun for te to 2024-04-20 23:00:00+00:00, run_after=2024-04-21 23:00:00+00:00
+[2024-04-21T22:19:42.223+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/test.py took 0.303 seconds
