@@ -94,7 +94,8 @@ These steps provide a basic setup for both Terraform and Apache Airflow. Dependi
 #### Setup: 
     Installs Git to allow for Git-based operations in DAGs.
 
-### Usage
+### How to use: 
+
 #### 1. Build the Docker Image:
 
     docker build -t my-airflow .
@@ -133,5 +134,4 @@ If you want to create a new template dag, make sure to create the new template i
 
 Now you should see the new dags in the DAGS directory. If you go to Airflow (localhost:8080) you should see the new dags there as well (it might take a few minutes for the dags to show in Airflow).
 
-
-
+Happy Coding :)
