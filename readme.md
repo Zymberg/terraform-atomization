@@ -42,30 +42,18 @@ Installs Git to allow for Git-based operations in DAGs.
 Modify the variables in variables.tfvars to specify the filenames for new DAGs, their IDs, and template filenames. If you want to create a new DAG, add its filename to the end of the existing dag_filenames, its ID to the end of dag_ids, and its template filename to the end of template_filenames. 
 
             dag_filenames  = [
-                "dischem_pubsub_dag.py", 
-                "dischem_dag_caller.py",
-                "dischem_ingestion_dag.py",
-                "dischem_dbt_dag.py",
-                "dischem_curated_export_dag.py",
-                "new_dag.py"
+                "welcome_john_dag.py",
+                "goodbye_john_dag.py"
             ]
 
             dag_ids  = [ 
-                "dischem_pubsub", 
-                "dischem_dag_caller",
-                "dischem_file_ingestion",
-                "dischem_dbt",
-                "dischem_curated_export",
-                "new_dag"
+                "welcome_john",
+                "goodbye_john"
             ]
 
             template_filenames = [ 
-                "pubsub_dag", 
-                "dag_caller",
-                "ingestion_dag",
-                "dbt_dag",
-                "curated_export_dag",
-                "new_dag_template"
+                "welcome_dag",
+                "goodbye_dag"
             ]
 
 If you want to create a new template dag, make sure to create the new template in the airflow/template_dags directory and use the other template dags as refrence.
